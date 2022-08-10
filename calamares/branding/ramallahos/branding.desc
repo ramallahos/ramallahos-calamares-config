@@ -1,0 +1,23 @@
+---
+componentName:  ramallahos
+welcomeStyleCalamares:   false
+welcomeExpandingLogo:   true
+windowExpanding:    noexpand
+windowSize: 800px,520px
+strings:
+    productName:         RamallahOS
+    shortProductName:    RamallahOS
+    versionedName:       RamallahOS
+    shortVersionedName:  RamallahOS
+    bootloaderEntryName: RamallahOS
+images:
+    productLogo:         "logo.png"
+    productIcon:         "logo.png"
+    productWelcome:      "languages.png"
+slideshow:               "show.qml"
+slideshowAPI: 1
+style:
+   sidebarBackground:    "#3c003c"
+   sidebarText:          "#efefef"
+   sidebarTextSelect:    "#22214d"
+   sidebarTextHighlight: "#5900b3"
